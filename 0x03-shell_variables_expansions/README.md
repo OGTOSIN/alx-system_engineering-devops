@@ -18,3 +18,6 @@ My shell var & expsn tasks
 
 
  6-create_local_variables: A script that creates a new local variable.
+
+
+ 7-create_global_variables: A script that creates a new global variable.
